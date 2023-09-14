@@ -1,8 +1,8 @@
-Azure Firewall Deployment and Configuration (For more detailed report, download the document or visit www.blog.lohitgaddipati.com)
+Azure Firewall Deployment and Configuration (For a more detailed report, download the document or visit https://blog.lohitgaddipati.com)
 
 Step 1: Firewall deployment 
 
-1.	Sign into your Azure subscription from the Azure portal. 
+1.	Sign in to your Azure subscription from the Azure portal. 
  
 2.	On the Azure home page select Firewalls under the Azure services bar.
  
