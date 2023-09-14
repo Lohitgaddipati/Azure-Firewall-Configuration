@@ -85,6 +85,3 @@ Earlier you learned that one of the great advantages of using the Azure Standard
 1.	For Threat intel mode select Alert and deny.
  
 1.	Select Save.
-
-
-![image](https://github.com/Lohitgaddipati/Azure-Firewall-Configuration/assets/101139863/67f9d822-01dc-46ed-9382-cde976a649d6)
